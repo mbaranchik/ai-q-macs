@@ -110,3 +110,4 @@ When nil, preserves the original line's indentation with spaces."
               (message "Completion error: %s" err)))))
 
 (provide 'ai-q-lsp)
+(provide 'ai-q-macs)
